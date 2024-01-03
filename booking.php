@@ -17,7 +17,7 @@
         
         <label for="email">Email:</label>
         <input type="email" name="email" required><br>
-        
+
         <label for="checkin">Check-in Date:</label>
         <input type="date" name="checkin" required><br>
         
